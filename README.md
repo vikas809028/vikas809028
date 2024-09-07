@@ -12,17 +12,14 @@ I'm a passionate MERN Developer. I have a strong background in Core Java, Data S
 - **MERN Stack**: MongoDB, Express.js, React.js, Node.js
 - **Core Java**
 - **Data Structures & Algorithms**
-- **Basics of C and C++**
+- **Basics of C and Java
 - **Tech Enthusiast**
 
 ## 🌟 Notable Projects
 - **CourseCrafter**: A platform for course creation and management.
 - **Todo**: A task management application with CRUD functionalities.
 - **Customer Query Management**: A dashboard for managing and tracking customer queries.
-- **TicTacToe**: A classic Tic-Tac-Toe game.
-- **Password Generator**: A tool for generating secure passwords.
-- **Social Media**: A simple social media application for interaction and posts.
-
+- 
 ## 📚 Education
 - **B.Tech (2021-2025)**
 
