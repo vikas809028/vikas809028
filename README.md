@@ -1,8 +1,8 @@
-### <div align="center">
-Hi there, I'm Vikas Tiwari 👋
+<div align="center">
+  <h1>Hi there, I'm Vikas Tiwari 👋</h1>
 </div>
 
-![Profile Photo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyushi95.medium.com%2Fhow-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c&psig=AOvVaw2UshXiKzOOq1FM8Ly56b5n&ust=1725803156091000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiF0vL7sIgDFQAAAAAdAAAAABAE) <!-- Replace with your actual photo URL -->
+![Profile Photo](https://via.placeholder.com/150) <!-- Replace with your actual photo URL -->
 
 ## 👨‍💻 About Me
 I'm a passionate MERN Developer currently interning at Softpro India. I have a strong background in Core Java, Data Structures & Algorithms, and basic knowledge of C and C++. I'm always eager to explore new technologies and take on challenging projects.
@@ -38,4 +38,5 @@ Check out my [portfolio](https://portfolio-zeta-gules-48.vercel.app/) to see mor
 - Exploring new technologies and ideas 🌟
 
 Feel free to reach out if you have any questions or would like to collaborate on exciting projects!
+
 
