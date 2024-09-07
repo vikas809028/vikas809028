@@ -1,5 +1,5 @@
-<div align="center">
-### Hi there, I'm Vikas Tiwari 👋
+### <div align="center">
+Hi there, I'm Vikas Tiwari 👋
 </div>
 
 ![Profile Photo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyushi95.medium.com%2Fhow-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c&psig=AOvVaw2UshXiKzOOq1FM8Ly56b5n&ust=1725803156091000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiF0vL7sIgDFQAAAAAdAAAAABAE) <!-- Replace with your actual photo URL -->
