@@ -18,8 +18,8 @@ I'm a passionate MERN Developer. I have a strong background in Core Java, Data S
 ## 🌟 Notable Projects
 - **CourseCrafter**: A platform for course creation and management.
 - **Todo**: A task management application with CRUD functionalities.
-- **Customer Query Management**: A dashboard for managing and tracking customer queries.
-- 
+- **Customer Query Management**: A dashboard for managing and tracking customer queries. 
+
 ## 📚 Education
 - **B.Tech (2021-2025)**
 
