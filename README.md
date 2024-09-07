@@ -2,10 +2,10 @@
   <h1>Hi there, I'm Vikas Tiwari 👋</h1>
 </div>
 
-![Profile Photo](https://via.placeholder.com/150) <!-- Replace with your actual photo URL -->
+![Profile Photo](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png) <!-- Replace with your actual photo URL -->
 
 ## 👨‍💻 About Me
-I'm a passionate MERN Developer currently interning at Softpro India. I have a strong background in Core Java, Data Structures & Algorithms, and basic knowledge of C and C++. I'm always eager to explore new technologies and take on challenging projects.
+I'm a passionate MERN Developer. I have a strong background in Core Java, Data Structures & Algorithms, and basic knowledge of C and C++. I'm always eager to explore new technologies and take on challenging projects.
 
 ## 🚀 Skills
 - **MERN Stack**: MongoDB, Express.js, React.js, Node.js
