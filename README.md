@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center>
+  <div align="center">
   <h1>Hi there, I'm Vikas Tiwari 👋</h1>
 </div>
 
@@ -38,5 +39,6 @@ Check out my [portfolio](https://portfolio-zeta-gules-48.vercel.app/) to see mor
 - Exploring new technologies and ideas 🌟
 
 Feel free to reach out if you have any questions or would like to collaborate on exciting projects!
+</div>
 
 
