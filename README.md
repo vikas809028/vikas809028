@@ -1,6 +1,6 @@
 <div align="center>
   <div align="center">
-  <h1>Hi there, I'm Vikas Tiwari 👋</h1>
+  <h1 align="center">Hi there, I'm Vikas Tiwari 👋</h1>
 </div>
 
 ![Profile Photo](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png) <!-- Replace with your actual photo URL -->
