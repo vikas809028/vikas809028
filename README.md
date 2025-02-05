@@ -9,11 +9,11 @@
 I'm a passionate MERN Developer. I have a basic developed foundation in Core Java, Data Structures & Algorithms . I'm always eager to explore new technologies and take on challenging projects.
 
 ## 🚀 Skills
-- **MERN Stack**: MongoDB, Express.js, React.js, Node.js
-- **Core Java**
-- **Data Structures & Algorithms
-- **Basics of C and Java
-- **Tech Enthusiast**
+- MERN Stack**: MongoDB, Express.js, React.js, Node.js
+- Core Java**
+- Data Structures & Algorithms
+- Basics of C and Java
+- Tech Enthusiast
 
 ## 🌟 Notable Projects
 - **CourseCrafter**: A platform for course creation and management.
