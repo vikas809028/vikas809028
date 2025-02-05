@@ -29,7 +29,7 @@ I'm a passionate MERN Developer. I have a basic developed foundation in Core Jav
 - **Phone**: 8090283850 📞
 
 ## 🌐 Portfolio
-Check out my [portfolio](https://portfolio-zeta-gules-48.vercel.app/) to see more about my work and projects.
+Check out my [portfolio](https://portfoliovikastiwari.vercel.app/) to see more about my work and projects.
 
 ## 🎯 Interests
 - Cricket 🏏
