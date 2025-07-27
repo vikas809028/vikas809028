@@ -49,7 +49,7 @@
 ## 🏢 Professional Experience
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
 </div>
 
 ### 🚀 **Prutor.ai - Software Developer**
@@ -102,12 +102,13 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbf6" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
-<table>
+<div align="center">
+<table width="100%" cellpadding="15" cellspacing="0" border="0">
 <tr>
-<td width="50%">
+<td width="50%" valign="top" align="left">
 
 ### 🎓 CourseCrafter
 **A comprehensive platform for course creation & management**
@@ -119,7 +120,7 @@
 **[🔗 Live Demo](https://coursecrafter4u.vercel.app/)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top" align="left">
 
 ### ✅ Todo Management App
 **A feature-rich task management application**
@@ -133,7 +134,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top" align="left">
 
 ### 📞 Customer Query Management
 **Dashboard for tracking customer queries**
@@ -143,7 +144,7 @@
 - 👥 Multi-user support
 
 </td>
-<td width="50%">
+<td width="50%" valign="top" align="left">
 
 ### 🚀 More Projects Coming Soon...
 **Always working on something new!**
@@ -154,6 +155,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -201,7 +203,7 @@
 
 <div align="center">
   
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f4db25d0-70a8-4aca-8914-2a8c2c0fb2ee" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300"/>
   
   ### 💬 Feel free to reach out for collaborations or just a friendly chat!
   
