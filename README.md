@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi%20there,%20I'm%20Vikas%20Tiwari&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi%20there,%20I'm%20Vikas%20Tiwari&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
   
   <!-- Animated Typing Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&height=100&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🔥+Tech+Explorer+%26+Problem+Solver;🎯+Always+Learning+New+Technologies;🐳+DevOps+with+Docker+%26+Jenkins;🐧+Linux+%26+Ubuntu+Power+User" alt="Typing SVG" />
