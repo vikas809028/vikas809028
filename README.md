@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi%20there,%20I'm%20Vikas%20Tiwari&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
   
   <!-- Animated Typing Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&height=100&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🔥+Tech+Explorer+%26+Problem+Solver;🎯+Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&height=100&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Enthusiast;🔥+Tech+Explorer+%26+Problem+Solver;🎯+Always+Learning+New+Technologies;🐳+DevOps+with+Docker+%26+Jenkins;🐧+Linux+%26+Ubuntu+Power+User" alt="Typing SVG" />
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=vikas809028&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -33,11 +33,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🚀 I'm a passionate **Full Stack Developer** with experience in **React, Node, Express** and **SQL and NoSQL Databases**  
+🐳 I embrace the power of **Docker** and **Jenkins** for CI/CD and scalable deployments  
+🐧 Skilled in **Linux** (Ubuntu) administration, scripting, and automation  
 💡 Always eager to explore new technologies and work on exciting projects!  
 🏆 **Best Speaker** & **Star Performer** Awardee at **Softpro India** among 300 students  
 🎓 **B.Tech Graduate (2021-2025)**  
-🌱 Currently exploring **TypeScript** and **Advanced React Patterns**  
-💬 Ask me about **React, Node.js, MongoDB, JavaScript**  
+🌱 Currently exploring **TypeScript**, **Advanced React Patterns**, and **DevOps**  
+💬 Ask me about **React, Node.js, Docker, Jenkins, Linux, MongoDB, JavaScript**  
 ⚡ Fun fact: **I love cricket and exploring new technologies!**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -67,7 +69,7 @@
 <div align="center">
   
   <!-- Animated Skills Icons -->
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,html,css,typescript,git,github,vercel,postman&theme=dark&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,html,css,typescript,git,github,vercel,postman,docker,jenkins,linux,ubuntu&theme=dark&perline=8" alt="Skills" />
   
 </div>
 
@@ -86,6 +88,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🛠️ **Tools & Platforms**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -183,10 +189,11 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400"/>
 </div>
 
-- 🌱 **Learning**: Advanced TypeScript & Next.js
-- 🚀 **Building**: Scalable full-stack applications
+- 🌱 **Learning**: Advanced TypeScript, Next.js, Docker & Jenkins pipelines
+- 🚀 **Building**: Scalable full-stack applications, Automated CI/CD with Jenkins & Docker
+- 🐧 **Improving**: Linux/Ubuntu system administration & DevOps skills
 - 🎯 **Goal**: Contributing to open-source projects
-- 💼 **Looking for**: Full-time opportunities in MERN stack development
+- 💼 **Looking for**: Full-time opportunities in MERN stack & DevOps engineering
 
 ---
 
