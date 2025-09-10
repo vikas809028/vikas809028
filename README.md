@@ -180,7 +180,10 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikas809028&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <a href="https://github-profile-trophy.vercel.app/?username=vikas809028">
+    <img src="https://github-profile-trophy.vercel.app/?username=vikas809028&theme=darkhub&row=1&column=6" alt="GitHub Trophies"/>
+  </a>
+  <p><i>🏆 GitHub Trophies showcasing my contributions</i></p>
 </div>
 
 ---
@@ -217,7 +220,8 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vikas809028&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&row=1" alt="GitHub Trophies" />
+
 </div>
 
 <div align="center">
